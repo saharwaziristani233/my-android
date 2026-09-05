@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Termux Command Guide</string>
+    <string name="title_activity_main">Termux Command Guide</string>
+    <string name="package_name">com.termuxcommandguide.app</string>
+    <string name="custom_url_scheme">com.termuxcommandguide.app</string>
+</resources>
